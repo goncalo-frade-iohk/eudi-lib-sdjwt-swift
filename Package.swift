@@ -24,7 +24,7 @@ let package = Package(
         ),
         .package(
           url: "https://github.com/beatt83/jose-swift.git",
-          exact: "3.0.0"
+          from: "3.0.0"
         ),
     ],
     targets: [

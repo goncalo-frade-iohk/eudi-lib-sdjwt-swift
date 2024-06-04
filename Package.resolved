@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/beatt83/jose-swift.git",
       "state" : {
-        "revision" : "1d36e208439b217e70195968d329c5e409b2be66",
-        "version" : "3.0.0"
+        "revision" : "b12669077899111baa3f7b56bd57dca6ea180a80",
+        "version" : "3.0.2"
       }
     },
     {
@@ -32,8 +32,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/SwiftyJSON/SwiftyJSON.git",
       "state" : {
-        "revision" : "b3dcd7dbd0d488e1a7077cb33b00f2083e382f07",
-        "version" : "5.0.1"
+        "revision" : "af76cf3ef710b6ca5f8c05f3a31307d44a3c5828",
+        "version" : "5.0.2"
       }
     }
   ],
